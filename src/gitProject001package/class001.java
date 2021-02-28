@@ -14,6 +14,8 @@ public class class001 {
 
 		//Conflict!!!
 		//Here is another remote action
+		
+		//Changes on feature branch
 
 	}
 
