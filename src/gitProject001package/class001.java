@@ -7,6 +7,7 @@ public class class001 {
 		System.out.println("New commit");
 		
 		//Welcome to git sessions
+		//Hi from GitHub!!!
 	}
 
 }
