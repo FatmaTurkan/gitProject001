@@ -9,7 +9,11 @@ public class class001 {
 		//Welcome to git sessions
 		//Hi from GitHub!!!
 		//here is a new commit.
+
 		//Conflict!!
+
+		//Conflict!!!
+
 	}
 
 }
