@@ -16,8 +16,13 @@ public class class001 {
 		//Here is another remote action
 		
 		//Changes on feature branch
+
 		//Another change
 //Here is my conclict!!
+
+
+		//Here is the conflict of remote master branch
+
 	}
 
 }
