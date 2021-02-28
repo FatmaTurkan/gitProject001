@@ -13,6 +13,7 @@ public class class001 {
 		//Conflict!!
 
 		//Conflict!!!
+		//Here is another remote action
 
 	}
 
