@@ -17,6 +17,7 @@ public class class001 {
 		
 		//Changes on feature branch
 
+		//Here is the conflict of remote master branch
 	}
 
 }
