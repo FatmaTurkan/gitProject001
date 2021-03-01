@@ -18,16 +18,9 @@ public class class001 {
 		//Changes on feature branch
 
 		//Another change
-//Here is my conclict!!
-
+        //Here is my conclict!!
 
 		//Here is the conflict of remote master branch
-		System.out.println("9:21 pm -GitHub");
-
-		System.out.println("Buradan conflict beklemiyorum");
-
-
-
 
 	}
 
