@@ -23,11 +23,10 @@ public class class001 {
 
 		//Here is the conflict of remote master branch
 		System.out.println("9:21 pm -GitHub");
-<<<<<<< HEAD
+
 		System.out.println("Buradan conflict beklemiyorum");
-=======
-		System.out.println("9:37 pm -Bakalim coflict olacak mi");
->>>>>>> refs/remotes/origin/master
+
+
 
 	}
 
