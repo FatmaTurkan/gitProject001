@@ -26,6 +26,10 @@ public class class001 {
 
 		System.out.println("Buradan conflict beklemiyorum");
 
+<<<<<<< HEAD
+=======
+	
+>>>>>>> 346eb263510ed83e4c043ae0b960b9e6fa587519
 
 
 	}
