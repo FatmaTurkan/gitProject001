@@ -21,6 +21,7 @@ public class class001 {
         //Here is my conclict!!
 
 		//Here is the conflict of remote master branch
+		System.out.println("3/1  3:09 A new line");
 
 	}
 
