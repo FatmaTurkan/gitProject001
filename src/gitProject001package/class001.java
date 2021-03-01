@@ -21,7 +21,17 @@ public class class001 {
         //Here is my conclict!!
 
 		//Here is the conflict of remote master branch
+<<<<<<< HEAD
         System.out.println("10:16 Still git");
+=======
+		System.out.println("9:21 pm -GitHub");
+
+		System.out.println("Buradan conflict beklemiyorum");
+
+
+
+
+>>>>>>> master
 	}
 
 }
