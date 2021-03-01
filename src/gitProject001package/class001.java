@@ -18,6 +18,8 @@ public class class001 {
 		//Changes on feature branch
 		//Another change
 //Here is my conclict!!
+		
+		// Creating a new line for stash
 	}
 
 }
