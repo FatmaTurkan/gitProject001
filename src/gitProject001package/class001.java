@@ -21,7 +21,7 @@ public class class001 {
         //Here is my conclict!!
 
 		//Here is the conflict of remote master branch
-
+        System.out.println("10:16 Still git");
 	}
 
 }
